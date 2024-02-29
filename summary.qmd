@@ -1,0 +1,208 @@
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+```{=html}
+<style>
+body{text-align: justify}
+</style>
+```
+# Disposições Gerais
+
+## Introdução
+
+Os crimes cometidos na direção de veículos automotores, em sua grande maioria, estão tipificados no **Capítulo XIX** do Código de Trânsito Brasileiro (CTB), entre os arts. 302 e 312. O legislador tratou, desde logo, de limitar o ambito de alcance do CTB, estabelecendo que o Código regula apenas os crimes cometidos na direção de veículo automotor.
+
+Deste modo, **Não** se aplicam as normas do Código de Trânsito a fatos criminosos praticados na direção veículos de propução humana, com a bicicleta, bem como aqueles cometidos na direção de veículos de tração animal, com a carroça.
+
+Tratando-se de crime cometido na direção de veículo automotor, aplicar-se-ão primeiramente as regras do Código de Trânsito, por ser **Norma Especial**.
+
+Assim, no que não for incompatível com a legislação de trânsito, bem como em caso de omissões, são aplicável com a legislação de trânsito, bem como em caso de omissões, são aplicáveis as normas gerais do **Código Penal** e do **Código de Processo Penal**.
+
+Porém, isto não implica dizer que não se pode cometer crimes previstos no Código Penal ou Contravenções previstas na **Lei de Contravenções Penais** quando se está na direção de veículo automotor, devendo a análise da tipificação penal ocorrer à luz do **Caso Concreto**.
+
+## **Artigo 291 - CTB**
+
+::: {.callout-important collapse="false"}
+"**Aos crimes cometidos na direção de veículos automotores, previstos neste Código, aplicam-se as normas gerais do Código Penal e do Código de Processo Penal, se este Capítulo não dispuser de modo diverso, bem como a Lei nº 9.099, de 26 de setembro de 1995, no que couber**".
+:::
+
+### **§ 1º**
+
+Aplica-se aos crimes de trânsito de lesão corporal culposa o disposto nos arts. 74, 76 e 88 da Lei no 9.099, de 26 de setembro de 1995, exceto se o agente estiver: (Renumerado do parágrafo único pela Lei nº 11.705, de 2008)
+
+-   **I** - sob a influência de álcool ou qualquer outra substância psicoativa que determine dependência; (Incluído pela Lei nº 11.705, de 2008)
+
+-   **II** - participando, em via pública, de corrida, disputa ou competição automobilística, de exibição ou demonstração de perícia em manobra de veículo automotor, não autorizada pela autoridade competente; (Incluído pela Lei nº 11.705, de 2008)
+
+-   **III** - transitando em velocidade superior à máxima permitida para a via em 50 km/h (cinqüenta quilômetros por hora). (Incluído pela Lei nº 11.705, de 2008)
+
+Este parágrafo, com as alterações produzidas pela Lei 11.705/2008 modifica significativamente a aplicabilidade da Lei 9.099/1995 em relação aos Crimes de Trânsito cometidos na direção de veículo automotor. Especificamente ao delito tipificado no art. 303 do Código, lesão corporal culposa no trânsito, embora se trate de uma infraçãp penal de menor potencial ofensivo, os três artigos citados (74,76 e 88), que prevem, respectivamente, a composição civil, a transação penal e a necessidade de representação para propositura da ação penal, deixarão de ser aplicados em benefício do autor, quando este se encontrar em uma das circunstâncias definidas neste dispositivo.
+
+Desta forma, temos que o delito do art. 303, embora continue a ser um crime de menor potencial ofensivo, por sua pena máxima não exceder a dois anos, não atrairá a aplicação dos benefícios mensionados se o agente estiver em uma das três situações:
+
+-   **Sob a Influência de Alcool ou qualquer outra substância psicoativa que determine dependência**;
+-   **Participando, em via pública, de corrida, disputa ou competição automobilística, de exibição ou demonstração de perícia em manobra de veículo automotor, não autorizada pela autoridade competente**;
+-   **Transitando em velocidade superior à máxima permitida para a via em 50km/h**
+
+Frise-se, desde logo, que, em se verificar a situação prevista  noinc. I deste dispositivo, a lesão corporal culposa praticada na direção de veículo automotor será tida como **Qualificada** e, por conseguinte, será punida de modo mais severo, conforme alteração promovida pela lei 13.546/2017, a qual acrescentou um novo parágrafo ao art.303 do CTB.
+
+Trata-se, portanto, de uma norma de exceção, que afasta a incidência da regra geral. Dentre as hipóteses citadas, a mais observada nas vias públicas, infelizmente, é a condução de veículo sob a influência de álcool ou sibstância análoga. Nesses casos, os tribunais pátrios, corretamente, vêm entendendo trata-se de Ação Penal Pública Incondicionada, sendo desnecessária a representação da vítima.
+
+
+### **§ 2º**
+
+Nas hipóteses previstas no § 1o deste artigo, deverá ser instaurado inquérito policial para a investigação da infração penal. (Incluído pela Lei nº 11.705, de 2008)
+
+
+Conforme já mensinado, os crimes capitulados como de menor potencial ofensivo observam procedimento diferenciado daquele estabelecido no Código de Processo Penal. Para tais crimes, não há a instauração  de **Inquérito Policial**, mas sim a lavratura de um **Termo Circunstanciado de Ocorrência (TCO)**, no stermos do art. 69 da Lei 9.099/1995. Nesse caso, se o autor do fato for imediamente encaminhado ao juizado ou assumir o compromisso de a ele comparecer, não se imporá prisão em flagrante (art. 69, parágrafo único, Lei 9.099/1995).
+
+Caso consectário lógico do parágrafo anterior, o legislador determinou que, encontrando-se o agente em uma das hipóteses do § 1º do art.291, afastar-se-á o procedimento dos Juizados Especiais, Instaurando-se inquérito policial, e não termo circunstanciado, para apuração do crime.
+
+
+### **§ 3º**
+
+(VETADO). (Incluído pela Lei nº 13.546, de 2017)
+
+### **§ 4º**
+
+O juiz fixará a pena-base segundo as diretrizes previstas no art. 59 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), dando especial atenção à culpabilidade do agente e às circunstâncias e consequências do crime. (Incluído pela Lei nº 13.546, de 2017)
+
+
+Em relação ao § 4º, procedeu a alteração nos critérios de **Dosimetria da Pena**. Como se sabe, da previsão abstrata da pena cominada a um delito à pena concreta aplicada a um caso, percorre o juiz por três fases de aplicação da pena (daí o nosso sistema ser chamado de trifásico).
+
+
+N primeira delas, o magistrado avalia as circunstâncias **JUDICIAIS** ou **INOMINADAS**, previstas no *art. 59* do Código Penal, para fixar apena base, a qual depois será submetida às segunda e terceira fases (circunstâncias **Atenuantes e Agravantes** e **Causas de Aumento de Diminuição de Pena**).
+
+
+Com a alteração promovida pela Lei 13.546/2017, optou-se o legislador por estabelecer uma ordem de prevalência entre tais circunstâncias, de modo que o **juiz deva dar especial atenção à culpabilidade do agente** e **as circunstâncias** e **consequências do crime na fixação da pena-base**.
+
+
+
+
+
+
+
+
+
+
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+## **Artigo 292 - CTB**
+
+::: {.callout-important collapse="false"}
+**"A suspensão ou a proibição de se obter a permissão ou a habilitação para dirigir veículo automotor pode ser imposta isolada ou cumulativamente com outras penalidades. (Redação dada pela Lei nº 12.971, de 2014)"**
+:::
+
+A penalidade de suspensão ou proibição de se obter a permissão ou a habilitação para dirigir veículo automotor não se confunde com a penalidade aplicada pela **Autoridade de Trânsito**, prevista nos arts. 256, III, e 261 do CTB, que tem natureza administrativa. A sanção prevista neste artigo é aplicada pela **Autoridade Judiciária**, apartir do cometimento de crimes de trânsito, tendo, pois, natureza Criminal.
+
+Cabe observar que o artigo dis respeito a duas situações. Na primeira, o juiz aplica a penalidade de suspensão do direito de dirigir em relação a uma pessoa que já devidamente habilitada para conduzir veéiculos automotores em vias públicas; na segunda, a autoridade judiciária aplica a penalidade de proibição de se obter a permissão ou a habilitação para dirigir veículos automotores em vias publicas em relação a uma pessoa que ainda **Não** esteja devidamente habilitada, nos termos do CTB.
+
+Essa pessoa poderá, inclusive, já ter se inscrito do DETRAN, com a abertura do RENACH (Registro Nacional de Carteiras de Habilitação), e estar em processo de aprendizagem, mas, em razão de ter cometido determinado crime de trânsito, **o juiz poderá lhe aplicar pena impeditiva de obter sua habilitação**, por determinado período de tempo, que varia de dois meses a cinco anos, nos termos do artigo seguinte.
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+## **Artigo 293 - CTB**
+
+::: {.callout-important collapse="false"}
+**"A penalidade de suspensão ou de proibição de se obter a permissão ou a habilitação, para dirigir veículo automotor, tem a duração de dois meses a cinco anos."**
+:::
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+## **Artigo 294 - CTB**
+
+::: {.callout-important collapse="false"}
+
+**Em qualquer fase da investigação ou da ação penal, havendo necessidade para a garantia da ordem pública, poderá o juiz, como medida cautelar, de ofício, ou a requerimento do Ministério Público ou ainda mediante representação da autoridade policial, decretar, em decisão motivada, a suspensão da permissão ou da habilitação para dirigir veículo automotor, ou a proibição de sua obtenção.**
+
+**Parágrafo único. Da decisão que decretar a suspensão ou a medida cautelar, ou da que indeferir o requerimento do Ministério Público, caberá recurso em sentido estrito, sem efeito suspensivo.**
+:::
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+## **Artigo 295 - CTB**
+
+::: {.callout-important collapse="false"}
+**"A suspensão para dirigir veículo automotor ou a proibição de se obter a permissão ou a habilitação será sempre comunicada pela autoridade judiciária ao Conselho Nacional de Trânsito - CONTRAN, e ao órgão de trânsito do Estado em que o indiciado ou réu for domiciliado ou residente."**
+:::
+
+
+
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+## **Artigo 296 - CTB**
+
+::: {.callout-important collapse="false"}
+**"Se o réu for reincidente na prática de crime previsto neste Código, o juiz aplicará a penalidade de suspensão da permissão ou habilitação para dirigir veículo automotor, sem prejuízo das demais sanções penais cabíveis. (Redação dada pela Lei nº 11.705, de 2008)."**
+:::
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+## **Artigo 297 - CTB**
+
+
+::: {.callout-important collapse="false"}
+**"A penalidade de multa reparatória consiste no pagamento, mediante depósito judicial em favor da vítima, ou seus sucessores, de quantia calculada com base no disposto no § 1º do art. 49 do Código Penal, sempre que houver prejuízo material resultante do crime."**
+:::
+
+
+
+§ 1º A multa reparatória não poderá ser superior ao valor do prejuízo demonstrado no processo. 
+§ 2º Aplica-se à multa reparatória o disposto nos arts. 50 a 52 do Código Penal. 
+§ 3º Na indenização civil do dano, o valor da multa reparatória será descontado.
+
+
+
+
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+
+
+## **Artigo 298 - CTB**
+
+::: {.callout-important collapse="false"}
+**"São circunstâncias que sempre agravam as penalidades dos crimes de trânsito ter o condutor do veículo cometido a infração:"**
+:::
+
+
+- **I -** com dano potencial para duas ou mais pessoas ou com grande risco de grave dano patrimonial a terceiros; 
+
+- **II -** utilizando o veículo sem placas, com placas falsas ou adulteradas; 
+
+- **III -** sem possuir Permissão para Dirigir ou Carteira de Habilitação; 
+- **IV -** com Permissão para Dirigir ou Carteira de Habilitação de categoria diferente da do veículo; 
+- **V -** quando a sua profissão ou atividade exigir cuidados especiais com o transporte de passageiros ou de carga; 
+- **VI -** utilizando veículo em que tenham sido adulterados equipamentos ou características que afetem a sua segurança ou o seu funcionamento de acordo com os limites de velocidade prescritos nas especificações do fabricante; 
+- **VII -** sobre faixa de trânsito temporária ou permanentemente destinada a pedestres.
+
+

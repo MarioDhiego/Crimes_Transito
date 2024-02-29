@@ -1,0 +1,29 @@
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+```{=html}
+<style>
+body{text-align: justify}
+</style>
+```
+
+
+
+# Prefácio {.unnumbered}
+
+O número crescente de ações penais e cíveis oriundas de enetos de trânsito, desde processos contra o ente público fiscalizador do trânsito., ações indenizatórias, defesas penais, ações coletivas fundadas no direito de trânsito, demostram par aqualquer operador do direito a importância dessa temática jurídica.
+
+Indispensável é a formulação de políticas públicas permanentes de educação no trânsito para redução de sinistros, com objetivos e responsabilidades bem claramente definidos, especialmente quanto aos sinistros
+envolvendo motocicletas, os quais representam quase um um terço das mortes.
+
+
+
+
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::

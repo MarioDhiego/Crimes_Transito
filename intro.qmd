@@ -1,0 +1,120 @@
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+```{=html}
+<style>
+body{text-align: justify}
+</style>
+```
+
+
+
+# Conceitos Fundamentais
+## Leis
+
+No seu sentido mais amplo, o termo "lei" significa sempre ordenação através de regularidades. Todo condutor tem a obrigação de conhecer as leis de trânsito, o dever social de cumpri-las, e estará sujeito a multas e penalidades toda vez que transgredi-las.
+
+|                                  |                                      |
+|:--------------------------------:|:------------------------------------:|
+| ![](images/image-2035638006.png) | ![](images/lei1-02.png){width="338"} |
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+## Trânsito
+
+1º Considera-se trânsito a utilização das vias por pessoas, veículos e animais, isolados ou em grupos, CONDUZIDOS OU NÃO, para ﬁns de circulação, parada, estacionamento e operação de carga ou descarga.
+
+![](images/image-1961589352.png)
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+
+## Direção Defensiva
+
+Dirigir Defensivamente(português brasileiro) OU Condução Defensiva(português europeu) é o conjunto de medidas e procedimentos utilizados para prever ou minimizar as consequências dos acidentes de trânsito.
+
+![](images/image-1151365635.png)
+
+Baseado na noção de que em todo acidente sempre está presente uma falha humana relacionada ou a negligência, ou imprudência, ou imperícia, a direção defensiva pretende que o motorista que a emprega seja um elemento ativo na alteração ou eliminação dos fatores que possam vir a causar acidentes.
+
+Além disso, ao longo da vida, acontecem as mais variadas circunstâncias de risco, devidas ao Ambiente e aos Outros Condutores;
+
+Desse modo, o motorista profissional precisa conhecer as Manobras Defensivas que o ajudam a diminuir o risco de acidentes e a preservar sua vida, a vida dos outros condutores, o veículo e os passageiros;
+
+
+### **Negligência**
+
+A negligência pode ser definida como descaso, displicência ou desleixo. Muitos sinistros e mortes são causados por negligência.
+
+
+### **Imprudência**
+
+A imprudência, elemento de presença constante no trânsito brasileiro, o motorista imprudente é aquele que pratica uma ação desconsiderando os riscos causados por ela.
+
+
+### **Imperícia**
+
+A imperícia ou a falta de habilidade é uma importante causa de sinistros. Geralmente é proveniente de má formação ou treinamento inadequado do condutor.
+
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+## Crimes
+
+É necessário que se faça, a distinção entre crimes de trânsito, crimes em trânsito e crimes no trânsito.
+
+#### Crimes **DE** Trânsito
+
+Os crimes de trânsito são aqueles que se ecnontram expressamente previsto no CTB (na Seção II do Capítulo XIX, intitulada "Dos Crimes em Espécie", indo ao art. 302 ao art. 312, consoante já mensionado).
+
+### Crimes **EM** Trânsito
+
+Os crime em trânsito, por sua vez, envolvem mais de dois países, sendo clássico o exemplo do tráfico internacional de drogas.
+
+### Crimes **NO** Trânsito
+
+A expressão crimes no trânsito pode se materializar a partir de ínumeras situações, haja vista ter por base unicamente o espaço no qual a conduta delituosa - ação ou omissão - é praticada, sendo exemplos desde o crime de uso de documento falso (art. 304 c.c o art. 297, caput, do Código Penal), o crime de roubo (art. 157 do Código Penal) perpetrado no trânsito.
+
+|                           |                           |                                        |
+|:----------------------:|:----------------------:|:----------------------:|
+| ![](images/crime1-01.jpg) | ![](images/crime3-01.jpg) | ![](images/crime2-01.jpg){width="208"} |
+
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+## **Lei Nº 9.099/1995**
+
+Com relação a Lei Nº 9.099/1995, este diploma institui os **Juizados Especiais Cíveis e Criminais na Justiça Estadual**.
+
+|                             |                             |                             |
+|:----------------------:|:----------------------:|:----------------------:|
+| ![](images/juizado1-01.jpg) | ![](images/juizado3-01.jpg) | ![](images/juizado2-01.jpg) |
+
+No que tange especificamente ao Juizado Especial Criminal (JECrim), tal órgão tem competência, para a concialiação, o julgamento e a execução das infrações de menor potencial ofensivo, nor termos do **art. 60** da menionada lei.
+
+Por definição legal, consideram-se infrações penais de menor potencial ofensivo as contravenções penais e os crimes a que a lei comine pena máxima não superior a dois anos., cumula ou não com multa (art. 61, Lei 9.099/1995). Essas infrações seguem um procedimento diferente daquele previsto no Código de Processo Penal, procedimento esse repleto de medidas despenalizadoras, como a **Transação Penal** e a **Composição Civil**, que representam parcial renúncia ao direito de punir do Estado.
+
+Dos crimes previsto pelo Código de Trânsito, apenas o Homicídio Culposo na direção veículo automotor (**art. 302**), a condução do veículo automotor com capacidade psicomotora alterada (**art. 306**) e a participação em corrida, disputa ou competição automobilística não autorizada pela autoridade competente (**art. 308**) têm pena máxima superior a dois anos, pelo que ficam excluídos da aplicação da Lei nº 9.099/1995.
+
+No âmbito federal, os Juizados Especiais são regulados pela **Lei nº 10.259/2001**.
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
